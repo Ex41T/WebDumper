@@ -45,7 +45,8 @@ def get_file_stats(output_dir: Path) -> dict:
 
 async def run_webdumper():
     print("============================")
-    print("     WebDumper PRO v2.0     ")
+    print("     WebDumper    ")
+    print("       Ex41T    ")
     print("============================")
 
     url = input("URL >>> ").strip()
